@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doggydon360
+- 👋 Hi, I’m @sameer chauhan
 - 👀 I’m interested in software developer
 - 🌱 I’m currently doing btech in IT
 - 💞️ I’m looking to collaborate on ...
